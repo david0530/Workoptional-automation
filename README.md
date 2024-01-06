@@ -1,7 +1,9 @@
+Using selenium and google API it automates process of video processing and organizing in google sheet
+
 1. Google Drive URL to Opus
 1.1. Obtain the URL of the video file stored in Google Drive.
 1.2. Use the URL to process the video in Opus.
-2. Opus to Google Sheet (Title, Description, Score)
+2. Opus to Google Sheet (Title, Description, Score) 
 2.1. Extract the Title, Description, and Score of the video from Opus.
 2.2. Open your Google Sheets and select the appropriate spreadsheet.
 2.3. Enter the extracted data into the spreadsheet in respective columns:
